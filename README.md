@@ -1,6 +1,4 @@
-# basic neural network in python.
-A neural network with one input layer and one output neuron.
-
+A basic neural network with one input layer and one output neuron.
 
 ## Training
 
